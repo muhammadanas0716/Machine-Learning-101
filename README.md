@@ -20,5 +20,20 @@ I've made this repo open to contributions! If there's a Machine Learning project
 
 
 
+### Connect With Me:
+
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/MuhammadAnas707#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/MuhammadAnas707#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/justanothermuhammadanas/#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/justanothermuhammadanas/#gh-dark-mode-only)
 
 
+## License  
+This project is under the **MIT License** and is absolutely **FREE** to use, but **ONLY** for learning purposes. Any project here is not to be sold to anyone and is free of cost.
