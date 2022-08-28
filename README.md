@@ -13,9 +13,9 @@ Well, this is the fun part and the main point of this repository is to learn. I 
 I've made this repo open to contributions! If there's a Machine Learning project you want to here, you can feel free to create an issue with your project details, I'd love to tackle it! And ofcourse if anyone else wants to tackle it - he can, I'll be ever so grateful!
 
 ## Project Contents
-|  Project Name                                                                                                                                     |Type of Project                                |Wiki of the  Project                         |
-|------------------------------------------------------------------------------------------------------------------------------------------------- |-----------------------------------------------|---------------------------------------------|
-|[Heart Disease Classification](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Heart%20Disease%20Classification)       | `Classification`                              | [Wiki Link](shorturl.at/eJUV0)              |
+|  Project Name                                                                                                                                     |Type of Project                                |Wiki of the  Project                                                                                                      |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|[Heart Disease Classification](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Heart%20Disease%20Classification)       | `Classification`                              | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Heart-Analysis-Classification-Problem)|
 
 
 
