@@ -36,4 +36,4 @@ I've made this repo open to contributions! If there's a Machine Learning project
 
 
 ## License  
-This project is under the **MIT License** and is absolutely **FREE** to use, but **ONLY** for learning purposes. Any project here is not to be sold to anyone and is free of cost.
+This project is under the **MIT License** and is absolutely **FREE** to use, but **ONLY** for learning purposes as any project here is **not to be sold** to anyone and is free of cost.
