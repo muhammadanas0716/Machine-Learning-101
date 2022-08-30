@@ -1,0 +1,19 @@
+# Contributing
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with me. Have a look at the [Readme.md](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/README.md) file to find links to connect with me.
+
+Please note this repository has a code of conduct, please follow it in all your interactions with the project.
+
+# How to Contribute
+You have a Machine Learning related problem in mind? If yes you could just go ahead and file an issue and very soon it'll be included in this repository. However, if you want to tackle a Machine Learing project yourself, then go ahead have a look at the existing [issues](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/issues), but if there is a project you want to build and it's not in the issues - then create an issue yourself and get coding.
+
+First and foremost, fork this repository and clone it your computer/local machine. Once done then do the following changes:
+
+  1. Create a folder dedicated to your project/problem
+  2. In the folder, there should be the dataset files, the notebook and the compiled model. By complied model I mean saved model which can be done with the help of **Joblib** or **Pickle**. Also there should be a text file namely **wiki.txt**, for the project wiki.
+  3. Update the **Table of Contents**.
+
+**Note**: No project is accepted without the **wiki.txt**, you can have a look at the existing [wiki](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Heart-Analysis-Classification-Problem) to get an idea of how to create that. I know, this shouln't be the case but I want to make this project as communicatable as possible. I am genuinely sorry.
+
+Once you're done updating everything at your end on your forked repository, you can send a PR to this project and I'll be more than happy to merge it!
+
+#### Am Eagerly Waiting for your PR 👋🏻
