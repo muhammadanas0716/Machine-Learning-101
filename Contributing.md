@@ -9,10 +9,8 @@ You have a Machine Learning related problem in mind? If yes you could just go ah
 First and foremost, fork this repository and clone it your computer/local machine. Once done then do the following changes:
 
   1. Create a folder dedicated to your project/problem
-  2. In the folder, there should be the dataset files, the notebook and the compiled model. By complied model I mean saved model which can be done with the help of **Joblib** or **Pickle**. Also there should be a text file namely **wiki.txt**, for the project wiki.
-  3. Update the **Table of Contents**.
-
-**Note**: No project is accepted without the **wiki.txt**, you can have a look at the existing [wiki](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Heart-Analysis-Classification-Problem) to get an idea of how to create that. I know, this shouln't be the case but I want to make this project as communicatable as possible. I am genuinely sorry.
+  2. In the folder, there should be the dataset files, the notebook and the compiled model. By complied model I mean saved model which can be done with the help of **Joblib** or **Pickle**.
+  3. Update the **Table of Contents** in the [Readme.md](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/README.md) file.
 
 Once you're done updating everything at your end on your forked repository, you can send a PR to this project and I'll be more than happy to merge it!
 
