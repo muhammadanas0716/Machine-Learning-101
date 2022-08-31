@@ -8,7 +8,7 @@ You have a Machine Learning related problem in mind? If yes you could just go ah
 
 First and foremost, fork this repository and clone it your computer/local machine. Once done then do the following changes:
 
-  1. Create a folder dedicated to your project/problem
+  1. Create a folder dedicated to your project (i.e Titanic from Disaster).
   2. In the folder, there should be the dataset files, the notebook and the compiled model. By complied model I mean saved model which can be done with the help of **Joblib** or **Pickle**.
   3. Update the **Table of Contents** in the [Readme.md](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/README.md) file.
 
