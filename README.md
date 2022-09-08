@@ -8,6 +8,8 @@ I also have another repository dedicated to **Data Analysis**, which can be foun
 
 I have great projects on my mind, and the first project I'm going to start with is a **Heart Disease Classification** problem. A fairly simple one, but a very good start. I'll also move towards towards **Deep Learning** projects, gradually ofcourse as I'm still learning, fortunately we all are, so have a look below!
 
+Would love to see your Project Suggestions!
+
 ## Learning & Contribution
 Well, this is the fun part and the main point of this repository is to learn. I believe practice **will** make me a much better Machine Learning engineer, and hopefully you will too. So...
 
