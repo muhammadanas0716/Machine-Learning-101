@@ -1,5 +1,5 @@
 # Contributing
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with me. Have a look at the [Readme.md](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/README.md) file to find links to connect with me.
+Just start! Nothing else to do. Just follow the following steps and you're ready to get your project merged here, helping many ML devs out there!
 
 Please note this repository has a code of conduct, please follow it in all your interactions with the project.
 
