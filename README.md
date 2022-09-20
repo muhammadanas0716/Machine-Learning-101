@@ -24,7 +24,7 @@ Just go through the [Contributing.md](https://github.com/muhammadanas0716/Machin
 
 
 
-### Find me Here:
+### Find Me Here:
 
 [![website](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-48.png)](https://www.kaggle.com/muhammadanas0716/#gh-light-mode-only)
 [![website](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-48.png)](https://www.kaggle.com/muhammadanas0716/#gh-dark-mode-only)
