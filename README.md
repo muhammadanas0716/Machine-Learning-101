@@ -20,9 +20,10 @@ I've made this repo open to contributions! If there's a Machine Learning project
 Just go through the [Contributing.md](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/Contributing.md) to get familiar with the process. Trust me, it's not long!
 
 ## Project Contents
-|  Project Name                                                                                                                                     |Type of Project                                |Wiki of the  Project                                                                                                      |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-|[Heart Disease Classification](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Heart%20Disease%20Classification)       | `Classification`                              | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Heart-Analysis-Classification-Problem)|
+| Project Name                                                                                                                                 | Type of Project  |Wiki of the  Project                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------|
+| [Heart Disease Classification](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Heart%20Disease%20Classification) | `Classification` | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Heart-Analysis-Classification-Problem)|
+| [Used Car Price Prediction](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Heart%20Disease%20Classification)    | `Prediction`     | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Heart-Analysis-Classification-Problem)|
 
 
 
