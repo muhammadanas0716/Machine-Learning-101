@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Car Price Prediction </title>
+    <link rel="icon" type="image/png" href="static/assets/favicon-32x32.png">
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+    <div class="login">
+        <h1>Predict Car Price</h1>
+        <p>Please fill all the fields.</p>
+
+        <!-- Main Input For Receiving Query to our ML -->
+        <form action="{{ url_for('predict')}}" method="post">
+            <div class="bigd">
+                <div>
+                    <p>In what year the car was purchased</p>
+                    <input type="text" name="price" placeholder="1990" required="required" />
+                    <p>What is distance completed by the car in Kilometers ?</p>
+                    <input type="text" name="distance" placeholder="0.00" required="required" />
+                    <p>The number of owners the car had previously ?</p>
+                    <input type="radio" name="owner" id="0" value="1" required> First </input<br>
+                    <input type="radio" name="owner" id="1" value="2" required> Second </input<br>
+                    <input type="radio" name="owner" id="2" value="3" required> Third </input<br>
+                    <input type="radio" name="owner" id="2" value="4" required> Fourth & Above </input<br>
+                    <p>Seats in the Car</p>
+                    <select name="seats" id="seats" class="select" required>
+                <option value="none" selected disabled hidden>Select an Option</option>
+                <option value="5.0">5 seats</option>
+                <option value="7.0">7</option>
+                <option value="8.0">8</option>
+                <option value="4.0">4</option>
+                <option value="6.0">6</option>
+                <option value="2.0">2</option>
+                <option value="10.0">10</option>
+                <option value="9.0">9</option>
+                </select>
+                    <p>Mileage(km/kg)</p>
+                    <input type="text" name="mileage" placeholder="19.67" required/>
+                </div>
+                <div>
+
+                    <p>Engine(CC)</p>
+                    <input type="text" name="engine" placeholder="19.67" required />
+                    <p>Power(bhp)</p>
+                    <input type="text" name="power" placeholder="19.67" required />
+                    <p>Location</p>
+                    <select name="location" id="location" class="select" required>
+                <option value="none" selected disabled hidden>Select an Option</option>
+                <option value="Bangalore">Bangalore</option>
+                <option value="Chennai">Chennai</option>
+                <option value="Coimbatore">Coimbatore</option>
+                <option value="Delhi">Delhi</option>
+                <option value="Hydrabad">Hydrabad</option>
+                <option value="Jaipur">Jaipur</option>
+                <option value="Kochi">Kochi</option>
+                <option value="Kolkata">Kolkata</option>
+                <option value="Mumbai">Mumbai</option>
+                <option value="Pune">Pune</option>
+            </select>
+                    <p>Fuel type</p>
+                    <input type="radio" name="fuel" id="0" value="CNG" required> CNG </input<br>
+                    <input type="radio" name="fuel" id="1" value="Diesel" required> Diesel </input<br>
+                    <input type="radio" name="fuel" id="2" value="LPG" required> LPG </input<br>
+                    <input type="radio" name="fuel" id="3" value="Petrol" required> Petrol </input<br>
+                    <br>
+                    <p>Transmission</p>
+                    <select name="transmission" id="transmission" class="select" required>
+                <option value="none" selected disabled hidden>Select an Option</option>
+                <option value="1">Manual</option>
+                <option value="0">Automatic</option>
+            </select>
+                    <br>
+
+                </div>
+            </div>
+            <div class="btn-click">
+
+                <button class="button-49" role="button" type="submit">Predict</button>
+
+
+            </div>
+        </form>
+
+        <br> {{ prediction_text }}
+
+    </div>
+
+
+</body>
+
+</html>
