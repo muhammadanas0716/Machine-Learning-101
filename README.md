@@ -1,7 +1,6 @@
 # Machine Learning Projects
 
-**Note:** Titanic Project is still under way!
-**Note**: Not part of **HACKTOBERFEST**
+### **Note**: Not part of **HACKTOBERFEST**
 
 Hey Machine Learning fans, we all are aware that Machine Learning is on fire right now. It's everywhere - dominated every industry. From the mobile phone you hold to the mind blowing autonomous cars. So recently I started experimenting & started exploring the vast domain of Machine Learning and I think practicing is the only way to learn effectively, atleast for me. And then learning in public is just so much better and **100x** more effective! So what better way to start...solving Machine Learning problems in public. So I want everyone out there to participate here!
 
