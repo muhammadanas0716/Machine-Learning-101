@@ -15,7 +15,7 @@ Would love to see your Project Suggestions!
 ## Learning & Contribution
 Well, this is the fun part and the main point of this repository is to learn. I believe practice **will** make me a much better Machine Learning engineer, and hopefully you will too. So...
 
-I've made this repo open to contributions! If there's a Machine Learning project you want to here, you can feel free to create an issue with your project details, I'd love to tackle it! And ofcourse if anyone else wants to tackle it - you surely can, I'll be ever so grateful!
+I've made this repo open to contributions! If there's a Machine Learning project you want to here, you can feel free to create an issue with your project details, I'd love to tackle it! And of course if anyone else wants to tackle it - you surely can, I'll be ever so grateful!
 
 Just go through the [Contributing.md](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/Contributing.md) to get familiar with the process. Trust me, it's not long!
 
