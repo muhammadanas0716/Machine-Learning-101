@@ -25,7 +25,7 @@ Just go through the [Contributing.md](https://github.com/muhammadanas0716/Machin
 | [Heart Disease Classification](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Heart%20Disease%20Classification)                      | `Classification`                                  | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Heart-Disease-Classification)                                           |
 | [Used Car Price Prediction](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Used%20Car%20Price%20Prediction)                          | `Prediction/Regression`                           | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Used-Car-Price-Prediction)                                              |
 | [Titanic Survival Prediction](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Titanic%20-%20Machine%20Learning%20from%20Disaster)     | `Classification`                                  | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Titanic-Machine-Learning-from-Disaster)                                 |
-
+| [Titanic Survival Prediction](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Sonar%20Rock%20Mine%20Prediction)                       | `Classification`                                  | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Sonar-Rock-Mine-Prediction)                                             |
 
 ### Find Me Here:
 
