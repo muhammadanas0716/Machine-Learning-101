@@ -20,29 +20,20 @@ I've made this repo open to contributions! If there's a Machine Learning project
 Just go through the [Contributing.md](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/Contributing.md) to get familiar with the process. Trust me, it's not long!
 
 ## Project Contents
-| Project Name                                                                                                                                 | Type of Project             |Wiki of the  Project                                                                                                      |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| [Heart Disease Classification](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Heart%20Disease%20Classification) | `Classification`            | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Heart-Disease-Classification)|
-| [Used Car Price Prediction](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Used%20Car%20Price%20Prediction)     | `Prediction/Regression`     | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Used-Car-Price-Prediction)|
-
-
+| Project Name                                                                                                                                                      | Type of Project                                   |Wiki of the  Project                                                                                                                                        |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Heart Disease Classification](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Heart%20Disease%20Classification)                      | `Classification`                                  | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Heart-Disease-Classification)                                           |
+| [Used Car Price Prediction](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Used%20Car%20Price%20Prediction)                          | `Prediction/Regression`                           | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Used-Car-Price-Prediction)                                              |
+| [Titanic Survival Prediction](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Titanic%20-%20Machine%20Learning%20from%20Disaster)     | `Classification`                                  | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Titanic-Machine-Learning-from-Disaster)                                 |
+| [Sonar Rock Mine Prediction](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Sonar%20Rock%20Mine%20Prediction)                       | `Classification`                                  | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Sonar-Rock-Mine-Prediction)                                             |
 
 ### Find Me Here:
+1. [Twitter](https://twitter.com/MuhammadAnas707)
+2. [Linkedin](https://www.linkedin.com/in/muhammad-anas-63744b235/)
+3. [Medium Blog](https://medium.com/@muhammadanas0716)
+4. [Support](https://www.buymeacoffee.com/muhammadanas)
 
-[![website](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-48.png)](https://www.kaggle.com/muhammadanas0716/#gh-light-mode-only)
-[![website](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-48.png)](https://www.kaggle.com/muhammadanas0716/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/MuhammadAnas707#gh-light-mode-only)
-[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/MuhammadAnas707#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-light-mode-only)
-[![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-light-mode-only)
-[![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-dark-mode-only)
-
-
-
+My Email: mrwhosetheboss365@gmail.com
 
 ## License  
 This project is under the **MIT License** and is absolutely **FREE** to use, but **ONLY** for learning purposes as any project here is **not to be sold** to anyone and is free of cost.
