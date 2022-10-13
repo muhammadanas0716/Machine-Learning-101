@@ -1,6 +1,6 @@
-Hey folks, it's Anas here and I'd love to welcome you to this repository - the place to learn more about Artificial Intellegince, Machine Learning, Deep Learning and so much more.
+Hey folks, it's Anas here and I'd love to welcome you to this repository-the place to learn more about Artificial Intellegince, Machine Learning, Deep Learning, and so much more.
 
-This repository is mainly built for learning purposes and will be developed in a very communicatave way. Everything will be understandable and intuitive. This is not some repo filled with complex Machine Learning code but understandable, commented code! I want to make the learning of AI accessible to everyone for free!
+This repository is mainly built for learning purposes and will be developed in a very communicative way. Everything will be understandable and intuitive. This is not some repo filled with complex machine learning code, but understandable, commented code! I want to make the learning of AI accessible to everyone for free!
 
 Once again, I welcome you and go have a look at the [table of contents](https://github.com/muhammadanas0716/Machine-Learning-Projects-101#project-contents) and explore the project you want.
 
