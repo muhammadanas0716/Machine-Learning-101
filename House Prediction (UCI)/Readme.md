@@ -1,1 +1,0 @@
-Just a quick note that, this project isn't much in detail regarding Data Analysis, meaning I did not EDA in this project! There was a course I was taking, and this project was part of it and only has the machine learning part. But if you want to contribute to this project, you can by doing some EDA with this dataset!
