@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-[Join in my Machine Learning Journey...#365DaysOfML]()
+**[Join in my Machine Learning Journey...#365DaysOfML](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/twitter.md)**
 
 Hey Machine Learning fans, we all are aware that Machine Learning is on fire right now. It's everywhere - dominated every industry. From the mobile phone you hold to the mind blowing autonomous cars. So recently I started experimenting & started exploring the vast domain of Machine Learning and I think practicing is the only way to learn effectively, atleast for me. And then learning in public is just so much better and **100x** more effective! So what better way to start...solving Machine Learning problems in public. So I want everyone out there to participate here!
 
