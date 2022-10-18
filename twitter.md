@@ -8,7 +8,5 @@ You can find Muhammad Anas [here](https://twitter.com/MuhammadAnas707)
 
 | Date          | Topic                                                              | Link             |
 | ---           | -----------------                                                  |----------------- |
-| 17-10-2022    |Setted up a new Project (Bulldozer Sales Prediction)                |https://twitter.com/MuhammadAnas707/status/1582037309288914944|
-| 18-10-2022    |Null                                                                |Null|
-| 19-10-2022    |Null                                                                |Null|
-| 20-10-2022    |Null                                                                |Null|
+| 17-10-2022    |Setted up a new project (Bulldozer Sales Prediction)                |https://twitter.com/MuhammadAnas707/status/1582037309288914944|
+| 18-10-2022    |Researched on a bunch of Regression technniques                     |https://twitter.com/MuhammadAnas707/status/1582395520894390274|
