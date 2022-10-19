@@ -1,12 +1,11 @@
 # Machine Learning Projects
 
-**[Hop on Board my Machine Learning Journey...#365DaysOfML](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/twitter.md)**
+****
+> **Something Fun** **[Hop on Board my Machine Learning Journey...365DaysOfML](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/twitter.md)**
 
 Hey Machine Learning fans, we all are aware that Machine Learning is on fire right now. It's everywhere - dominated every industry. From the mobile phone you hold to the mind blowing autonomous cars. So recently I started experimenting & started exploring the vast domain of Machine Learning and I think practicing is the only way to learn effectively, atleast for me. And then learning in public is just so much better and **100x** more effective! So what better way to start...solving Machine Learning problems in public. So I want everyone out there to participate here!
 
 I also have another repository dedicated to **Data Analysis**, which can be found [here](https://github.com/muhammadanas0716/Data-Science-Projects---EDA). In that repository, I focus on **Data Analysis** only and don't talk about **Machine Learning**, but this repository is all about it! Not to forget, 
-
-> I'll still be doing **Explortory Data Analysis** on a dataset before applying Machine Learning algorithms. 
 
 I have great projects on my mind, and the first project I'm going to start with is a **Heart Disease Classification** problem. A fairly simple one, but a very good start. I'll also move towards towards **Deep Learning** projects, gradually ofcourse as I'm still learning, fortunately we all are, so have a look below!
 
