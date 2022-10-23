@@ -14,3 +14,4 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 20-10-2022    |Applied OneHotEncoding, Imputed Values on the dataset, (Bulldozer Sales Prediction)   |https://twitter.com/MuhammadAnas707/status/1583138350461947907|
 | 21-10-2022    |Some research on Decision Trees ML algorithm                                          |https://twitter.com/MuhammadAnas707/status/1583501998682349574|
 | 22-10-2022    |Project Bulldozer Sales Prediction is a GO!                                           |https://twitter.com/MuhammadAnas707/status/1583872837512986626|
+| 23-10-2022    |Started a new Project + Get Ideas on Twitter (Brainstorming)                          |https://twitter.com/MuhammadAnas707/status/1584213419502473216|
