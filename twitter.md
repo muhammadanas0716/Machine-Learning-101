@@ -3,7 +3,7 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$7$** iterations (days) so far...
+**$8$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -15,3 +15,4 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 21-10-2022    |Some research on Decision Trees ML algorithm                                          |https://twitter.com/MuhammadAnas707/status/1583501998682349574|
 | 22-10-2022    |Project Bulldozer Sales Prediction is a GO!                                           |https://twitter.com/MuhammadAnas707/status/1583872837512986626|
 | 23-10-2022    |Started a new Project + Get Ideas on Twitter (Brainstorming)                          |https://twitter.com/MuhammadAnas707/status/1584213419502473216|
+| 24-10-2022    |Project - SpaceShip Titanic begins. Setted up files and the Wiki.                     |https://twitter.com/MuhammadAnas707/status/1584919840367714306|
