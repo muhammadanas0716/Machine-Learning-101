@@ -3,7 +3,7 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$10$** iterations (days) so far...
+**$11$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -17,4 +17,5 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 23-10-2022    |Started a new Project + Get Ideas on Twitter (Brainstorming)                          |https://twitter.com/MuhammadAnas707/status/1584213419502473216|
 | 24-10-2022    |Project - SpaceShip Titanic begins. Setted up files and the Wiki                      |https://twitter.com/MuhammadAnas707/status/1584919840367714306|
 | 25-10-2022    |Did extensive EDA on the Spaceship Titanic Dataset & made logical observations        |https://twitter.com/MuhammadAnas707/status/1584961688071118848|
-| 26-10-2022    |Did some Pre-Processing Spaceship Titanic Dataset                                     |https://twitter.com/MuhammadAnas707/status/1585316723040796674|
+| 26-10-2022    |Did some pre-processing on the Spaceship Titanic Dataset                              |https://twitter.com/MuhammadAnas707/status/1585316723040796674|
+| 27-10-2022    |Applied OneHotEncoding and perpared for the modelling part                            |https://twitter.com/MuhammadAnas707/status/1585678389729497088|
