@@ -3,7 +3,7 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$13$** iterations (days) so far...
+**$14$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -21,3 +21,4 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 27-10-2022    |Applied OneHotEncoding and perpared for the modelling part                            |https://twitter.com/MuhammadAnas707/status/1585678389729497088|
 | 28-10-2022    |98% Project Completed, Also read on xGBoost                                           |https://twitter.com/MuhammadAnas707/status/1586050076249829377|
 | 29-10-2022    |Project - SpaceShip Titanic is a go! Submitted to Kaggle, and came in the 40% rank!   |https://twitter.com/MuhammadAnas707/status/1586404125343744000|
+| 30-10-2022    |Wrote down the outline of my next project - Credit Card Fraud Detection               |https://twitter.com/MuhammadAnas707/status/1586762560971440131|
