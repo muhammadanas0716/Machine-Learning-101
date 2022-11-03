@@ -3,7 +3,7 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$17$** iterations (days) so far...
+**$18$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -23,4 +23,5 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 29-10-2022    |Project - SpaceShip Titanic is a go! Submitted to Kaggle, and came in the 40% rank!   |https://twitter.com/MuhammadAnas707/status/1586404125343744000|
 | 31-10-2022    |Read on Imbalanced Classification                                                     |https://twitter.com/MuhammadAnas707/status/1587131572624523271|
 | 1-11-2022     |Set up Project - Credit Card Fraud Detection                                          |https://twitter.com/MuhammadAnas707/status/1587470356239056896|
-| 2-11-2022     |Couldn't do anything...                                                               |https://twitter.com/MuhammadAnas707/status/1587836104983674882|
+| 2-11-2022     |Couldn't do anything...Busy with school HW                                            |https://twitter.com/MuhammadAnas707/status/1587836104983674882|
+| 3-11-2022     |Did some EDA and Data Cleaning - Credit Card Fraud Detection                          |https://twitter.com/MuhammadAnas707/status/1588212151298232320|
