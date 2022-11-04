@@ -6,3 +6,4 @@ seaborn
 sklearn
 flask
 plotly
+imblearn
