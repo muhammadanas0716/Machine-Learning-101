@@ -3,7 +3,7 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$20$** iterations (days) so far...
+**$21$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -27,3 +27,4 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 3-11-2022     |Did some EDA and Data Cleaning - Credit Card Fraud Detection                          |https://twitter.com/MuhammadAnas707/status/1588212151298232320|
 | 4-11-2022     |Did some Scaling, Transformations and Balanced the dataset using `SMOTE`              |https://twitter.com/MuhammadAnas707/status/1588575270860390401|
 | 5-11-2022     |Modelling & Testing using Metrics                                                     |https://twitter.com/MuhammadAnas707/status/1588943552444534784|
+| 6-11-2022     |Completed Credit Card Fraud Detection Project                                         |https://twitter.com/MuhammadAnas707/status/1589311580734652416|
