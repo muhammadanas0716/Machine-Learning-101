@@ -1,7 +1,7 @@
 # Machine Learning Projects
 
 
-> **Note** **[Hop on Board my Machine Learning Journey...365 Days Of Machine Learning](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/twitter.md)**
+> **Note** **[Hop on Board my Machine Learning Journey OF 365 Days Of Machine Learning](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/twitter.md)**
 
 Hey Machine Learning fans, we all are aware that Machine Learning is on fire right now. It's everywhere - dominated every industry. From the mobile phone you hold to the mind blowing autonomous cars. So recently I started experimenting & started exploring the vast domain of Machine Learning and I think practicing is the only way to learn effectively, atleast for me. And then learning in public is just so much better and **100x** more effective! So what better way to start...solving Machine Learning problems in public. So I want everyone out there to participate here!
 
@@ -26,8 +26,9 @@ Just go through the [Contributing.md](https://github.com/muhammadanas0716/Machin
 | [Titanic Survival Prediction](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Titanic%20-%20Machine%20Learning%20from%20Disaster)     | `Classification`                                  | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Titanic-Machine-Learning-from-Disaster)                                 |
 | [Sonar Rock Mine Prediction](https://github.com/muhammadanas0muhammadanas0716-patch-1716/Machine-Learning-Projects-101/tree/main/Sonar%20Rock%20Mine%20Prediction)| `Classification`                                  | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Sonar-Rock-Mine-Prediction)                                             |
 | [Predicting Rainfall](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Rainfall%20Prediction)                                          | `Classification`                                  | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Predicting-Rainfall)                                                    |
-| [Prediciting Sales of Bulldozers](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Predicting%20Bulldozer%20Sale%20Prices)             | `Regression`                                      | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Prediciting-Sales-of-Bulldozers)                                      |
-| [Spaceship Titanic](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Spaceship%20Titanic)                                              | `Classification`                                      | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Spaceship-Titanic)                                      |
+| [Prediciting Sales of Bulldozers](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Predicting%20Bulldozer%20Sale%20Prices)             | `Regression`                                      | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Prediciting-Sales-of-Bulldozers)                                        |
+| [Spaceship Titanic](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Spaceship%20Titanic)                                              | `Classification`                                  | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Spaceship-Titanic)                                                      |
+| [Credit Card Fraud Detection](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/tree/main/Credit%20Card%20Fraud%20Detection)                      | `Imbalanced Classification`                                   | [Wiki Link](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/wiki/Credit-Card-Fraud-Detection)                                            |        |
 
 
 ## Some Recourses You Could Check out to Find Datasets
