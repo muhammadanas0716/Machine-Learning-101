@@ -6,6 +6,7 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 **$22$** iterations (days) so far...
 
 
+
 | Date          | Topic                                                                                | Link             |
 | ---           | -----------------                                                                    |----------------- |
 | 17-10-2022    |Setted up a new project (Bulldozer Sales Prediction)                                  |https://twitter.com/MuhammadAnas707/status/1582037309288914944|
@@ -29,3 +30,4 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 5-11-2022     |Modelling & Testing using Metrics                                                     |https://twitter.com/MuhammadAnas707/status/1588943552444534784|
 | 6-11-2022     |Completed Credit Card Fraud Detection Project                                         |https://twitter.com/MuhammadAnas707/status/1589311580734652416|
 | 7-11-2022     |Started Tensorflow Course - Project (Dog Breed Classification)                        |https://twitter.com/MuhammadAnas707/status/1589650226285268994|
+| 8-11-2022     |Setted up Dog Vision Project + Did some changed to this repo                          |https://twitter.com/MuhammadAnas707/status/1590026344519565313|
