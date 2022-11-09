@@ -13,22 +13,12 @@ I've made this repo open to contributions! If there's a Machine Learning project
 
 Just go through the [Contributing.md](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Contributing.md) to get familiar with the process. Trust me, it's not long!
 
-# Somethings you might want to look at
-1. [Project Table of Contents](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Project%20Table%20of%20Contents.md)
+## Current Progress
+* Working on Dog Vision (Classifiying Dog Breeds)
 
-
-## Some Recourses You Could Check out to Find Datasets
-1. [Kaggle](https://www.kaggle.com/datasets)
-2. [OpenDatasets - GitHub Repo](https://github.com/JovianML/opendatasets)
-3. [Google Datasets](https://datasetsearch.research.google.com/)
-
-### Find Me Here:
-1. [Twitter](https://twitter.com/MuhammadAnas707)
-2. [Linkedin](https://www.linkedin.com/in/muhammad-anas-63744b235/)
-3. [Medium Blog](https://medium.com/@muhammadanas0716)
-4. [Support](https://www.buymeacoffee.com/muhammadanas)
-
-My Email: mrwhosetheboss365@gmail.com
+## Somethings you might want to look at
+1. [Project Table of Contents](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Project%20Table%20of%20Contents.md) (IMPORTANT)
+2. [Machine Learning Recourses](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Machine%20Learning%20Recourses.md)
 
 ## License  
 This project is under the **MIT License** and is absolutely **FREE** to use, but **ONLY** for learning purposes as any project here is **not to be sold** to anyone and is free of cost.
