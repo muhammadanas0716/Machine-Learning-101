@@ -1,14 +1,12 @@
 # 🤖 Machine Learning Projects
 
-
-> **Note** **[Hop on Board my Machine Learning Journey OF 365 Days Of Machine Learning](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/twitter.md)**
-
 Hey ML maniacs 👋 Welcome to the club of Machine Learning - a place where you can learn about ML and tell the whole world about what you know! This repository is based on the idea of helping
 poeple gain more knowledge in ML by making projects, some excerises and cheatsheets (Excerises & CheatSheets comming soon) - so why not! C'mon and help others with your skills!
 
 ## 🔗 Some Things...
 1. [Project Table of Contents](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Project%20Table%20of%20Contents.md) (IMPORTANT)
 2. [Machine Learning Recourses](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Machine%20Learning%20Recourses.md)
+3. [Hop on Board my Machine Learning Journey OF 365 Days Of Machine Learning](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/twitter.md)
 
 ## 🚧 Current Progress
 * Working on Dog Vision (Classifiying Dog Breeds)
