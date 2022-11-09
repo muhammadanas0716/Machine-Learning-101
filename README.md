@@ -15,6 +15,7 @@ Just go through the [Contributing.md](https://github.com/muhammadanas0716/Machin
 
 ## Current Progress
 * Working on Dog Vision (Classifiying Dog Breeds)
+* Also working on some cheatsheets I'm looking forward to adding here - Topics (Python CheatSheet); This will take some time...hopefully by end of month.
 
 ## Somethings you might want to look at
 1. [Project Table of Contents](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Project%20Table%20of%20Contents.md) (IMPORTANT)
