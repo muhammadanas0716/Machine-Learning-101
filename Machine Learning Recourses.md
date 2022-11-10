@@ -1,9 +1,12 @@
-Welcome my machine learning freinds! Are you looking for something to learn? Well, here you might find something of use to you!
+Welcome my Machine Learning freinds! Are you looking for something to learn? Well, here you might find something of use to you!
 
 Follow the following index to find the topics you're looking for....
 
 # Index
-1. [Getting Started]()
+1. [Getting Started](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Machine%20Learning%20Recourses.md#1-getting-started)
 
 
 ## 1. GETTING STARTED
+* [Setting the right mindset](https://machinelearningmastery.com/what-is-holding-you-back-from-your-machine-learning-goals/) ML Mastery
+* [A Beginner’s Guide for Getting Started with Machine Learning](https://medium.com/analytics-vidhya/a-beginners-guide-for-getting-started-with-machine-learning-7ba2cd5796ae) - Tanvi Penumudy on Medium
+* [Applied Machine Learning Process/ML Tools](https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/) - ML Mastery
