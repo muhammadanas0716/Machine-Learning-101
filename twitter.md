@@ -3,8 +3,7 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$24$** iterations (days) so far...
-
+**$25$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -32,3 +31,4 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 7-11-2022     |Started Tensorflow Course - Project (Dog Breed Classification)                        |https://twitter.com/MuhammadAnas707/status/1589650226285268994|
 | 8-11-2022     |Setted up Dog Vision Project + Did some changed to this repo                          |https://twitter.com/MuhammadAnas707/status/1590026344519565313|
 | 9-11-2022     |Did some TensorFlow work + Wrote a Blog                                               |https://twitter.com/MuhammadAnas707/status/1590370127924834305|
+| 10-11-2022    |Learned about Tensors + Deep Learning by Andrew Ng                                    |https://twitter.com/MuhammadAnas707/status/1590754727998164992|
