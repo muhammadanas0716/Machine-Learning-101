@@ -7,6 +7,6 @@ Follow the following index to find the topics you're looking for....
 
 
 ## 1. GETTING STARTED
-* [Setting the right mindset](https://machinelearningmastery.com/what-is-holding-you-back-from-your-machine-learning-goals/) ML Mastery
+* [Setting the right mindset](https://machinelearningmastery.com/what-is-holding-you-back-from-your-machine-learning-goals/) - ML Mastery
 * [A Beginner’s Guide for Getting Started with Machine Learning](https://medium.com/analytics-vidhya/a-beginners-guide-for-getting-started-with-machine-learning-7ba2cd5796ae) - Tanvi Penumudy on Medium
 * [Applied Machine Learning Process/ML Tools](https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/) - ML Mastery
