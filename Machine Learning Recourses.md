@@ -3,7 +3,7 @@ Welcome my machine learning freinds! Are you looking for something to learn? Wel
 Follow the following index to find the topics you're looking for....
 
 # Index
-
+1. [Getting Started]()
 
 
 ## 1. GETTING STARTED
