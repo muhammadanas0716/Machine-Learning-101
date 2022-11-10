@@ -23,7 +23,7 @@ This repo covers a range of topics (Atleast it will.....I'm working on it!), sta
 3. [Hop on Board my Machine Learning Journey OF 365 Days Of Machine Learning](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/twitter.md)
 
 ## 🚧 Current Progress
-* Working on Dog Vision (Classifiying Dog Breeds) - Not added in [Project Table of Contents](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Project%20Table%20of%20Contents.md) yet, once completed I shall add it.
+* Learning @Tensorflow
 * Also working on some cheatsheets I'm looking forward to adding here - Topics (Working on Numpy CheatSheet); This will take some time...hopefully by end of month.
 
 ## 📖 Learning AND Contribution
