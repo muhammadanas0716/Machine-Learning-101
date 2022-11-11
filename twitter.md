@@ -3,9 +3,9 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$25$** iterations (days) so far...
+**$26$** iterations (days) so far...
 
-
+1591104848375824385
 | Date          | Topic                                                                                | Link             |
 | ---           | -----------------                                                                    |----------------- |
 | 17-10-2022    |Setted up a new project (Bulldozer Sales Prediction)                                  |https://twitter.com/MuhammadAnas707/status/1582037309288914944|
@@ -32,3 +32,4 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 8-11-2022     |Setted up Dog Vision Project + Did some changed to this repo                          |https://twitter.com/MuhammadAnas707/status/1590026344519565313|
 | 9-11-2022     |Did some TensorFlow work + Wrote a Blog                                               |https://twitter.com/MuhammadAnas707/status/1590370127924834305|
 | 10-11-2022    |Learned about Tensors + Deep Learning by Andrew Ng                                    |https://twitter.com/MuhammadAnas707/status/1590754727998164992|
+| 11-11-2022    |What is a NEURAL NETWORK + Deep Learning by Andrew Ng                                 |https://twitter.com/MuhammadAnas707/status/1590754727998164992|
