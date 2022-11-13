@@ -3,7 +3,7 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$27$** iterations (days) so far...
+**$28$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -34,3 +34,4 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 10-11-2022    |Learned about Tensors + Deep Learning by Andrew Ng                                    |https://twitter.com/MuhammadAnas707/status/1590754727998164992|
 | 11-11-2022    |What is a NEURAL NETWORK + Deep Learning by Andrew Ng                                 |https://twitter.com/MuhammadAnas707/status/1590754727998164992|
 | 12-11-2022    |Did some Research on Deep Learning                                                    |https://twitter.com/MuhammadAnas707/status/1591474126572916736|
+| 13-11-2022    |Learned about `tf.constant`                                                          |https://twitter.com/MuhammadAnas707/status/1591832328313405440|
