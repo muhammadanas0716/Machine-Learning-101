@@ -3,7 +3,7 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$29$** iterations (days) so far...
+**$30$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -36,3 +36,6 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 12-11-2022    |Did some Research on Deep Learning                                                    |https://twitter.com/MuhammadAnas707/status/1591474126572916736|
 | 13-11-2022    |Learned about `tf.constant`                                                           |https://twitter.com/MuhammadAnas707/status/1591832328313405440|
 | 14-11-2022    |Learned about `tf.Variable` & Random Tensors                                          |https://twitter.com/MuhammadAnas707/status/1592195832950013952|
+| 15-11-2022    |Learned about Shuffling Tensors                                                       |https://twitter.com/MuhammadAnas707/status/1592566797295038464|
+
+
