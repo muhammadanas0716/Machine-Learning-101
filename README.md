@@ -23,7 +23,7 @@ This repo covers a range of topics (Atleast it will.....I'm working on it!), sta
 3. [Hop on Board my Machine Learning Journey OF 365 Days Of Machine Learning](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/twitter.md)
 
 ## 🚧 Current Progress
-NULL
+* Working on the project - [Avocado Price Predictions](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Avocado%20Price%20Prediction)
 
 ## 📖 Learning AND Contribution
 Well, here's the main point of this repo - LEARNING! Contributing by reading & writing code is THE best way of getting good at anything, especially at such a deep domain as Machine Learning! So...start contributing TODAY!
