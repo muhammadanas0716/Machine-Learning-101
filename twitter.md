@@ -3,7 +3,7 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$33$** iterations (days) so far...
+**$34$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -40,5 +40,6 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 16-11-2022    |Had a meeting with [Jesus Lopez](https://twitter.com/jsulopzs), and learned A LOT     |https://twitter.com/MuhammadAnas707/status/1592928507122024450|
 | 17-11-2022    |Did some brainstorming for my new project + had some free time                        |https://twitter.com/MuhammadAnas707/status/1593280174749110272|
 | 18-11-2022    |Attended an ML webinar by Analytics Vidhya                                            |https://twitter.com/MuhammadAnas707/status/1593647193361186947|
+| 19-11-2022    |Started a new project - Avocado Price Predictions - Did some research                 |https://twitter.com/MuhammadAnas707/status/1594006284247916546|
 
 
