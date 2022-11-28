@@ -3,7 +3,7 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$42$** iterations (days) so far...
+**$43$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -49,5 +49,6 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 25-11-2022    |Completed Part 1 (Linear Regression) of course by Jesus Lopez at Resolving Python     |https://twitter.com/MuhammadAnas707/status/1596170023772770304|
 | 26-11-2022    |Started learning about Decision Trees by Jesus Lopez at Resolving Python              |https://twitter.com/MuhammadAnas707/status/1596553805126307841|
 | 27-11-2022    |Did EDA + Pre-Processing on Avocado Price Predictions                                 |https://twitter.com/MuhammadAnas707/status/1596897753321426950|
+| 28-11-2022    |Learned about ROC Curve and AUC Score in detail **@StatQuest**                       |https://twitter.com/MuhammadAnas707/status/1597279893142016000|
 
 
