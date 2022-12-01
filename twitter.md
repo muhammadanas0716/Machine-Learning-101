@@ -52,5 +52,6 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 28-11-2022    |Learned about ROC Curve and AUC Score in detail **@StatQuest**                       |https://twitter.com/MuhammadAnas707/status/1597279893142016000|
 | 29-11-2022    |Finished Avocado Price Prediction Project (Dealt with Outliers + Modelling)          |https://twitter.com/MuhammadAnas707/status/1597634494462590976|
 | 30-11-2022    |Learned about Clustering @ResolvingPython by Jesus Lopez                             |https://twitter.com/MuhammadAnas707/status/1598003414281388032|
+| 1-12-2022     |Started to re-read Chapter 2 of ML with Scikit Learn by Sebastian                    |https://twitter.com/MuhammadAnas707/status/1598357426427813889|
 
 
