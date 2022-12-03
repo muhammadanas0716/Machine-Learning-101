@@ -54,5 +54,6 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 30-11-2022    |Learned about Clustering @ResolvingPython by Jesus Lopez                             |https://twitter.com/MuhammadAnas707/status/1598003414281388032|
 | 1-12-2022     |Started to re-read Chapter 2 of ML with Scikit Learn by Sebastian                    |https://twitter.com/MuhammadAnas707/status/1598357426427813889|
 | 2-12-2022     |Coded the Preceptron Algorithm from scratch + Read on DimDimensionality Reduction    |https://twitter.com/MuhammadAnas707/status/1598729188105650176|
+| 3-12-2022     |NAN                                                                                  |https://twitter.com/MuhammadAnas707/status/1599092137718530048|
 
 
