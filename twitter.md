@@ -3,7 +3,7 @@ My progress over the next $365$ days! Starting from **`17th October 2022`**, I'l
 
 You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
-**$50$** iterations (days) so far...
+**$51$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -54,8 +54,9 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 30-11-2022    |Learned about Clustering @ResolvingPython by Jesus Lopez                             |https://twitter.com/MuhammadAnas707/status/1598003414281388032|
 | 1-12-2022     |Started to re-read Chapter 2 of ML with Scikit Learn by Sebastian                    |https://twitter.com/MuhammadAnas707/status/1598357426427813889|
 | 2-12-2022     |Coded the Preceptron Algorithm from scratch + Read on DimDimensionality Reduction    |https://twitter.com/MuhammadAnas707/status/1598729188105650176|
-| 3-12-2022     |NAN                                                                                  |https://twitter.com/MuhammadAnas707/status/1599092137718530048|
+| 3-12-2022     |NULL                                                                                  |https://twitter.com/MuhammadAnas707/status/1599092137718530048|
 | 4-12-2022     |Did some research regarding NLP                                                      |https://twitter.com/MuhammadAnas707/status/1599447599307665408|
 | 5-12-2022     |More NLP                                                                             |https://twitter.com/MuhammadAnas707/status/1599819260095737856|
+| 6-12-2022     |NULL                                                                                 |https://twitter.com/MuhammadAnas707/status/1599819260095737856|
 
 
