@@ -58,5 +58,6 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 | 4-12-2022     |Did some research regarding NLP                                                      |https://twitter.com/MuhammadAnas707/status/1599447599307665408|
 | 5-12-2022     |More NLP                                                                             |https://twitter.com/MuhammadAnas707/status/1599819260095737856|
 | 6-12-2022     |NULL                                                                                 |https://twitter.com/MuhammadAnas707/status/1599819260095737856|
+| 7-12-2022     |Learned about PCA + Dimensionality Reduction                                         |https://twitter.com/MuhammadAnas707/status/1600535501835993089|
 
 
