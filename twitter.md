@@ -5,6 +5,8 @@ You can find ***Muhammad Anas*** [here](https://twitter.com/MuhammadAnas707)
 
 **$53$** iterations (days) so far...
 
+PAUSED
+
 
 | Date          | Topic                                                                                | Link             |
 | ---           | -----------------                                                                    |----------------- |
