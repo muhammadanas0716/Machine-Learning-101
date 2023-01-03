@@ -37,3 +37,5 @@ Just go through the [Contributing.md](https://github.com/muhammadanas0716/Machin
 This project is under the **MIT License** and is absolutely **FREE** to use, but **ONLY** for learning purposes as any project here is **not to be sold** to anyone and is free of cost.
 
 If you're looking forward to connecting with me, please shoot me a DM at [@MuhammadAnas707](twitter.com/MuhammadAnas707)
+
+1
