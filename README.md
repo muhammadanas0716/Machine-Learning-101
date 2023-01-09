@@ -23,8 +23,8 @@ This repo covers a range of topics (Atleast it will.....I'm working on it!), sta
 
 
 ## 🚧 Current Progress
-* Finding a project to work on regarding clustering
-* Creating the Python Cheatsheet
+* Reading the book "Python Machine Learning" by Sebastian Raschka
+* Perparing for my CAIEs
 
 ## 📖 Learning AND Contribution
 Well, here's the main point of this repo - LEARNING! Contributing by reading & writing code is THE best way of getting good at anything, especially at such a deep domain as Machine Learning! So...start contributing TODAY!
