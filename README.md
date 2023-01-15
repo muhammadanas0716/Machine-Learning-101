@@ -2,7 +2,7 @@
 
 Hey Machine Learning Maniacs 👋 
 
-Welcome to the club of Machine Learning - a place where you can learn about ML and tell the whole world about what you know! This repository reveloves arond the idea of helping poeple to break into the hot domain of Artificial Intelligence.
+Welcome to the cluster of Machine Learning - a place where you can learn about ML and tell the whole world about what you know! This repository reveloves arond the idea of helping poeple to break into the hot domain of Artificial Intelligence.
 
 This repo covers a range of topics (Atleast it will.....I'm working on it!), starting from basics classification projects to Computer Vision and Natural Language Processing. This repository also has a page for the recources that you could use to learn about some specific topics. Soon, I'll have some cheatsheets on topics like Python, Numpy, Scikit Learn etc. to help you even more!
 
