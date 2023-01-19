@@ -7,7 +7,7 @@ Welcome to the cluster of Machine Learning - a place where you can learn about M
 This repo covers a range of topics (Atleast it will.....I'm working on it!), starting from basics classification projects to Computer Vision and Natural Language Processing. This repository also has a page for the recources that you could use to learn about some specific topics. Soon, I'll have some cheatsheets on topics like Python, Numpy, Scikit Learn etc. to help you even more!
 
 
-<div align="center" markdown="1">
+<div align="center" markdown="2">
 
 [![GitHub repo forks](https://img.shields.io/github/forks/muhammadanas0716/Machine-Learning-101?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/muhammadanas0716/Machine-Learning-101/network)&#160;
 [![GitHub repo stars](https://img.shields.io/github/stars/muhammadanas0716/Machine-Learning-101?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/muhammadanas0716/Machine-Learning-101/stargazers)&#160;
