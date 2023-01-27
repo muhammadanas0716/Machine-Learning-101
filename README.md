@@ -17,7 +17,7 @@ This repo covers a range of topics (Atleast it will.....I'm working on it!), sta
 
 </div>
 
-## 🔗 Some Things...
+## 🔗 Some stuff you may wanna have a look AT...
 1. [Project Table of Contents](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Project%20Table%20of%20Contents.md) (IMPORTANT)
 2. [Machine Learning Recourses](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Machine%20Learning%20Recourses.md)
 
