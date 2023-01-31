@@ -1,0 +1,7 @@
+altair==4.2.0
+nltk==3.7
+numpy==1.22.0
+pandas==1.4.4
+Pillow==9.4.0
+scikit_learn==1.2.0
+streamlit==1.12.0
