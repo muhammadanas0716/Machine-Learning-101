@@ -7,7 +7,7 @@ This is project(s) content page. Here you'll find the name of the project, type 
 | [Heart Disease Classification](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Projects/Heart%20Disease%20Classification)                       | `Classification`                     | 
 | [Used Car Price Prediction](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Projects/Used%20Car%20Price%20Prediction)                           | `Prediction/Regression`              |
 | [Titanic Survival Prediction](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Projects/Titanic%20-%20Machine%20Learning%20from%20Disaster)      | `Classification`                     | 
-| [Sonar Rock Mine Prediction](https://github.com/muhammadanas0muhammadanas0716-patch-1716/Machine-Learning-101/tree/main/Projects/Sonar%20Rock%20Mine%20Prediction) | `Classification`                     |
+| [Sonar Rock Mine Prediction](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Projects/Sonar%20Rock%20Mine%20Prediction)                         | `Classification`                     |
 | [Predicting Rainfall](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Projects/Rainfall%20Prediction)                                           | `Classification`                     |
 | [Prediciting Sales of Bulldozers](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Projects/Predicting%20Bulldozer%20Sale%20Prices)              | `Regression`                         |
 | [Spaceship Titanic](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Projects/Spaceship%20Titanic)                                               | `Classification`                     |
