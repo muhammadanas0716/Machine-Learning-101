@@ -7,3 +7,4 @@ sklearn
 flask
 plotly
 imblearn
+mlextend
