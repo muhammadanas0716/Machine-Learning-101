@@ -4,7 +4,7 @@ Greeting ML enthusiasts 🎉
 
 I am thrilled to welcome you to the Machine Learning community! This repository is dedicated to providing a comprehensive learning experience for anyone who wants to delve into the exciting field of Artificial Intelligence. As an avid learner and practitioner of ML myself, I aim to make the learning journey as easy and accessible as possible for everyone.
 
-Here, you will find a wealth of information on various topics ranging from basic machine learning concepts to advanced techniques such as Computer Vision and Natural Language Processing. This repository serves as a one-stop-shop for all your ML needs and includes a wide range of resources and tutorials to help you along the way.
+Here, you will find massive wealth of information on various topics ranging from basic machine learning concepts to advanced techniques such as Computer Vision and Natural Language Processing. This repository serves as a one-stop-shop for all your ML needs and includes a wide range of resources and tutorials to help you along the way.
 
 In addition to the comprehensive learning materials, I am also working on creating cheat sheets for popular tools and libraries such as Python, Numpy, and Scikit-Learn to make it even easier for you to learn at your own pace.
 
