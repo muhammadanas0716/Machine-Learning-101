@@ -8,7 +8,7 @@ Here, you will find massive wealth of information on various topics ranging from
 
 In addition to the comprehensive learning materials, I'm also working on creating cheat sheets for popular tools and libraries such as Python, Numpy, and Scikit-Learn to make it even easier for you to learn at your own pace.
 
-So, gear up and get ready to immerse yourself in the wonderful world of Machine Learning! 🚀
+So gear up and get ready to immerse yourself in the wonderful world of Machine Learning! 🚀
 
 
 <div align="center" markdown="1">
