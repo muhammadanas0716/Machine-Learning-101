@@ -1,0 +1,4 @@
+
+# Merge Driver for MakinaRocks Link Git
+# Visit https://makinarocks.gitbook.io/link/features/version-control/conflict-management#link-git-merge-driver for details
+*.ipynb merge=mrx_link_git_merger
