@@ -11,7 +11,7 @@ In addition to the comprehensive learning materials, I'm also working on creatin
 So gear up and get ready to immerse yourself in the wonderful world of Machine Learning! 🚀
 
 
-<div align="center" markdown="1">
+<div align="center" markdown="2">
 
 [![GitHub repo forks](https://img.shields.io/github/forks/muhammadanas0716/Machine-Learning-101?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/muhammadanas0716/Machine-Learning-101/network)&#160;
 [![GitHub repo stars](https://img.shields.io/github/stars/muhammadanas0716/Machine-Learning-101?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/muhammadanas0716/Machine-Learning-101/stargazers)&#160;
