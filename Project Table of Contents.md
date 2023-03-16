@@ -15,4 +15,4 @@ This is project(s) content page. Here you'll find the name of the project, type 
 | [Avocado Price Prediction](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Projects/Avocado%20Price%20Prediction)                               | `Regression + Dealing with Outliers` | 
 | [EDA on Video Games Released in 2022](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Projects/(EDA)%20Video%20Games%20Released%20in%202022)    | `Exploratory Data Analysis`          |
 | [Cyber Bully Tweet Classification](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Projects/Cyber-Bully%20Tweets%20Classification%20App)        | `NLP Text Classification`            | 
-| [Stock Options Flow Analysis (EDA)](https://github.com/muhammadanas0716/Machine-Learning-101/tree/main/Projects/Cyber-Bully%20Tweets%20Classification%20App)       | `Advanced Exploratory Data Analysis`            | 
+          | 
