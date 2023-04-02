@@ -23,7 +23,8 @@ So gear up and get ready to immerse yourself in the wonderful world of Machine L
 
 ## 🔗 Some stuff you may wanna have a look AT...
 1. [Project Table of Contents](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Project%20Table%20of%20Contents.md) (IMPORTANT)
-2. [Machine Learning Recourses](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Machine%20Learning%20Recourses.md)
+2. [AI/ML/DL Resources](https://github.com/srajan-kiyotaka/AI-ML-DL-Resource)
+3. [Machine Learning Recourses](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Machine%20Learning%20Recourses.md)
 
 
 ## 🚧 Current Progress
