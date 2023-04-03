@@ -1,6 +1,6 @@
 ## Cat Image Classifier
 
-# Logistic Regression
+### Logistic Regression
 
 Welcome to the Logistic Regression - Cat Image Classifier! In this project, you will learn how to build a logistic regression classifier that can recognize cats in images. You will develop your algorithm with a neural network mindset and hone your intuitions about deep learning.
 
@@ -17,7 +17,7 @@ You will learn to:
   - Using an optimization algorithm (gradient descent)
 - Gather all three functions above into a main model function, in the right order.
 
-# Deep Neural Network
+### Deep Neural Network
 
 By the time you complete this notebook, you will have finished the deep neural network classifier to recognize cats.
 
