@@ -1,10 +1,10 @@
 # 🤖 Machine Learning Projects
 
-Greeting ML Enthusiasts 🎉
+Greetings ML Enthusiasts 🎉
 
-I am thrilled to welcome you to the Machine Learning community! This repository is dedicated to providing a comprehensive learning experience for anyone who wants to delve into the exciting field of Artificial Intelligence. As an avid learner and practitioner of ML myself, I aim to make the learning journey as easy and accessible as possible for everyone.
+I am thrilled to welcome you to the Machine Learning community! This repository is dedicated to providing a comprehensive learning experience for anyone who wants to delve into the exciting field of Artificial Intelligence. As an avid learner and practitioner of ML myself, I aim to make the learning journey as easy and accessible as possible for everyone...
 
-Here, you will find massive wealth of information on various topics ranging from basic machine learning concepts to advanced techniques such as Computer Vision and Natural Language Processing. This repository serves as a one-stop-shop for all your ML needs and includes a wide range of resources and tutorials to help you along the way.
+Here, you will find massive wealth of analytics on various topics ranging from basic machine learning concepts to advanced techniques such as Computer Vision and Natural Language Processing. This repository serves as a one-stop-shop for all your ML needs and includes a wide range of resources and tutorials to help you along the way.
 
 In addition to the comprehensive learning materials, I'm also working on creating cheat sheets for popular tools and libraries such as Python, Numpy, and Scikit-Learn to make it even easier for you to learn at your own pace.
 
@@ -23,7 +23,8 @@ So gear up and get ready to immerse yourself in the wonderful world of Machine L
 
 ## 🔗 Some stuff you may wanna have a look AT...
 1. [Project Table of Contents](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Project%20Table%20of%20Contents.md) (IMPORTANT)
-2. [Machine Learning Recourses](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Machine%20Learning%20Recourses.md)
+2. [AI/ML/DL Resources](https://github.com/srajan-kiyotaka/AI-ML-DL-Resource)
+3. [Machine Learning Recourses](https://github.com/muhammadanas0716/Machine-Learning-101/blob/main/Machine%20Learning%20Recourses.md)
 
 
 ## 🚧 Current Progress
