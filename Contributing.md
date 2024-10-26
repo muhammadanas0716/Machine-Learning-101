@@ -1,17 +1,44 @@
-# Contributing
-Just start! Nothing else to do. Just follow the following steps and you're ready to get your project merged here, helping many ML devs out there!
+# Contributing to Machine Learning Projects 101
 
-Please note this repository has a code of conduct, please follow it in all your interactions with the project.
+Thanks for your interest in contributing! Your work can help many Machine Learning developers get started with new projects. Below, you’ll find a simple guide to help you get started.
 
-# How to Contribute
-You have a Machine Learning related problem in mind? If yes you could just go ahead and file an issue and very soon it'll be included in this repository. However, if you want to tackle a Machine Learing project yourself, then go ahead have a look at the existing [issues](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/issues), but if there is a project you want to build and it's not in the issues - then create an issue yourself and get coding.
+This repository has a **code of conduct**—please follow it in all interactions related to this project.
 
-First and foremost, fork this repository and clone it your computer/local machine. Once done then do the following changes:
+---
 
-  1. Create a folder dedicated to your project (i.e Titanic from Disaster).
-  2. In the folder, there should be the dataset files, the notebook and the compiled model. By complied model I mean saved model which can be done with the help of **Joblib** or **Pickle**.
-  3. Update the **Table of Contents** in the [Readme.md](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/README.md) file.
+## How to Contribute
 
-Once you're done updating everything at your end on your forked repository, you can send a PR to this project and I'll be more than happy to merge it!
+Have an idea for a Machine Learning project? Here are two ways to contribute:
 
-#### Am Eagerly Waiting for your PR 👋🏻
+1. **Have a problem or idea in mind?**  
+   Create an [issue](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/issues), and it’ll be considered for inclusion in the repository.
+
+2. **Want to tackle a project?**  
+   Browse the existing [issues](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/issues) to find a project that interests you. If you have a unique project idea that isn't listed, go ahead and create a new issue!
+
+### Steps to Contribute Your Project
+
+1. **Fork and Clone the Repository**  
+   First, fork this repository and clone it to your local machine.
+
+2. **Organize Your Project Files**
+
+   - Create a new folder dedicated to your project (e.g., `Titanic Disaster Prediction`).
+   - Include:
+     - **Dataset files**
+     - **Notebook file(s)** with your code and explanations
+     - **Saved model**: Save your model using either **Joblib** or **Pickle**.
+
+3. **Update the Documentation**  
+   Update the **Table of Contents** in the [README.md](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/README.md) to include your project.
+
+4. **Submit a Pull Request**  
+   After updating everything in your forked repository, submit a Pull Request (PR) to this project. I’ll review it and, if everything looks good, it’ll be merged!
+
+---
+
+### I Look Forward to Your PR! 👋
+
+---
+
+This contribution guide should help make your process smooth and straightforward. If you have questions, feel free to reach out via the repository's issue section. Happy coding!
