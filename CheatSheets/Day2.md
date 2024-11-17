@@ -76,8 +76,18 @@
 ### While Loops
 * **Basic Syntax:**
    ```python
-   while condition:
-       # code block
+  number = 32
+  
+  inputNum = int(input("Enter Guess: "))
+  while (inputNum != number):
+      if (inputNum < number):
+          print("Too low!")
+      else:
+          print("Too high!")
+
+    inputNum = int(input("Enter Guess: "))
+
+  print("Correct! You guessed the number!")
    ```
 * **Control Statements:**
    * `break` - Exit loop
