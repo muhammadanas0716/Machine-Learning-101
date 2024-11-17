@@ -89,7 +89,7 @@
 
   print("Correct! You guessed the number!")
    ```
-* **Control Statements:**
+* **Control Statements:** (**OPTIONAL**)
    * `break` - Exit loop
    * `continue` - Skip to next iteration
    * `pass` - Do nothing
