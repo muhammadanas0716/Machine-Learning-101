@@ -8,12 +8,9 @@
 * **Essential String Methods:**
    * `len()` - Get string length
    * `.upper()`, `.lower()`, `.title()`, `.capitalize()`
-   * `.strip()`, `.lstrip()`, `.rstrip()` - Remove whitespace
+   * `.strip()` - Remove whitespace
    * `.replace(old, new)` - Replace text
-   * `.split(separator)` - Convert string to list
-   * `.join()` - Join list elements into string
    * `.startswith()`, `.endswith()`
-   * `.find()`, `.index()` - Find substring position
    * `.count()` - Count occurrences
    * `.isdigit()`, `.isalpha()`, `.isalnum()`
 * **String Slicing**
@@ -24,13 +21,6 @@
      * `text[5:]` - Index 5 to end
      * `text[::2]` - Every second character
      * `text[::-1]` - Reverse string
-* **Activity: String Manipulation**
-   * Create program that:
-     * Takes user input
-     * Converts to different cases
-     * Counts specific characters
-     * Reverses the text
-     * Checks if it's a palindrome
 
 ## 2. Lists Deep Dive (30 minutes)
 ### List Basics
@@ -49,7 +39,6 @@
 ### List Methods
 * **Adding Elements**
    * `.append(item)` - Add to end
-   * `.insert(index, item)` - Add at position
    * `.extend(iterable)` - Add multiple items
 * **Removing Elements**
    * `.remove(item)` - Remove by value
@@ -58,15 +47,9 @@
 * **Ordering**
    * `.sort()` - Sort in place
    * `.reverse()` - Reverse in place
-   * `sorted(list)` - Return new sorted list
 * **Other Operations**
-   * `.index(item)` - Find item index
    * `.count(item)` - Count occurrences
-   * `.copy()` - Create shallow copy
    * `len(list)` - Get length
-* **List Comprehension** (if time permits)
-   * Basic syntax: `[expression for item in list]`
-   * Example: `[x*2 for x in range(5)]`
 
 ## 3. Loops (30 minutes)
 ### For Loops
@@ -79,7 +62,6 @@
    * `range(start, stop, step)`
    * Looping through lists
    * Looping through strings
-   * Using `enumerate()`
 * **Example Patterns:**
    ```python
    # Count from 0 to 9
@@ -89,10 +71,6 @@
    # Loop through list
    for item in my_list:
        print(item)
-   
-   # Loop with index
-   for index, value in enumerate(my_list):
-       print(f"Index {index}: {value}")
    ```
 
 ### While Loops
@@ -110,6 +88,7 @@
    * Input validation
    * Game loops
 
+# IF TIME PERMITS (OPTIONAL)
 ## 4. Dictionaries (20 minutes if time permits)
 ### Dictionary Basics
 * **Creating Dictionaries:**
@@ -129,34 +108,3 @@
    * `.update()` - Merge dictionaries
    * `.pop(key)` - Remove and return value
    * `.clear()` - Remove all items
-
-## 5. Mini-Project: Quiz Game (15 minutes)
-### Project Requirements
-* Create list of questions and answers
-* Use loops to iterate through questions
-* Track score using variables
-* Use string methods to process user input
-* Optional: Store high scores in dictionary
-
-### Example Structure:
-```python
-questions = [
-    {"question": "What is Python?", "answer": "programming language"},
-    {"question": "What is a list?", "answer": "collection"},
-]
-
-score = 0
-for q in questions:
-    answer = input(q["question"] + " ").lower().strip()
-    if answer in q["answer"]:
-        score += 1
-        print("Correct!")
-    else:
-        print("Wrong!")
-```
-
-## 6. Recap and Preview (10 minutes)
-* Review key concepts from strings, lists, loops
-* Quick quiz on main points
-* Preview of next session topics
-* Open Q&A
