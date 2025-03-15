@@ -1,5 +1,5 @@
 altair==4.2.0
-nltk==3.7
+nltk==3.9
 numpy==1.22.0
 pandas==1.4.4
 Pillow==10.0.1
